@@ -1,0 +1,2 @@
+# TalkToMe
+Keeps a Pebble 2 connected (in theory) even on buggy Android 10 versions by making the watch re-pair when it disconnects. This will make it buzz and ask to pair*every* time it disconnects in the background! (even at night, that's why there's a switch to turn it off)
